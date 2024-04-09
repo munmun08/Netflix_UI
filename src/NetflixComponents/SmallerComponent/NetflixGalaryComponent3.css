@@ -1,0 +1,32 @@
+
+#img3 {
+    content: url("../../../public/children.png");
+    margin-left: 8%;
+    margin-top: 5%;
+    height: 400px;
+    width:480px;
+}
+
+.gallery3 {
+    display: flex;
+    align-items: center;
+}
+
+#p3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    margin-left: 8%;
+
+}
+
+.h1.text-white.abc {
+    font-size: 3.5em; /* Adjust the font size as needed */
+}
+.gallery3child img {
+    margin-top: 8%;
+    margin-right: 8%;
+   
+}
